@@ -1,0 +1,10 @@
+.cache
+.env
+venvs/
+*.pyc
+__pycache__/
+.DS_Store
+custom_venv.txt
+autonomousAJ_spotifyAPI/data_files/
+*.log
+*.sqlite
